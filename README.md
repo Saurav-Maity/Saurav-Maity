@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saurav-Maity
-- 👀 I’m interested in C#, WPF, Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on C#, WPF, Python
+- 👀 I’m interested in C#, WPF, HTML/CSS/JS, ReactJS
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on C#, WPF, HTML/CSS/JS, ReactJS
 - 📫 How to reach me sauravmaity@live.com
 
 <!---
